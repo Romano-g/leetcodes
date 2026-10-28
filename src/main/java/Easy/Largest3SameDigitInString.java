@@ -1,3 +1,5 @@
+package Easy;
+
 public class Largest3SameDigitInString {
     public String largestGoodInteger(String num) {
         var highest = "";

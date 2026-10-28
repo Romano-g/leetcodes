@@ -1,3 +1,5 @@
+package Easy;
+
 public class OddStringDifference {
     public String oddString(String[] words) {
         String[] differences = new String[3];

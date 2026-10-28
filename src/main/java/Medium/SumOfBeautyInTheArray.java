@@ -1,3 +1,5 @@
+package Medium;
+
 public class SumOfBeautyInTheArray {
     public int sumOfBeauties(int[] nums) {
         int[] leftMax = new int[nums.length];

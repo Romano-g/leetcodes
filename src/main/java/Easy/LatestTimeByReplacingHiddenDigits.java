@@ -1,3 +1,5 @@
+package Easy;
+
 class LatestTimeByReplacingHiddenDigits {
     public String maximumTime(String time) {
         char[] t = time.toCharArray();

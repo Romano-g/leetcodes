@@ -1,3 +1,5 @@
+package Medium;
+
 public class CountKthRootsInRange {
     public int countKthRoots(int l, int r, int k) {
         int result = 0;

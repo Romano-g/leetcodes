@@ -1,3 +1,5 @@
+package Easy;
+
 public class Palindrome {
     public String firstPalindrome(String[] words) {
         for (var word : words) {

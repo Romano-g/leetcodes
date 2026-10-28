@@ -1,3 +1,5 @@
+package Medium;
+
 import java.util.Arrays;
 
 public class LexicographicallyLargestString {

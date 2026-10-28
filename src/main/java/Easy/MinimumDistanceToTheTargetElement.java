@@ -1,3 +1,5 @@
+package Easy;
+
 public class MinimumDistanceToTheTargetElement {
     public int getMinDistance(int[] nums, int target, int start) {
         int result = -1;
